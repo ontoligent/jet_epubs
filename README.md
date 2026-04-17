@@ -1,2 +1,3 @@
-# jet_epubs
+# Jet Epubs
+
 Takes a collection of epub versions of Jet Magazine issues and converts them into a document table.
